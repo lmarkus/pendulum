@@ -5,7 +5,13 @@ Simulation of multiple pendulums with harmonic length
 
 I recently saw [this video](https://www.youtube.com/watch?v=7_AiV12XBbI) on YouTube, and thought that it would be something
 fun to simulate.
-**[Live Demo](http://lmarkus.github.io/pendulum/)**
+
+**[Live Demo Here](http://lmarkus.github.io/pendulum/)**
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7_AiV12XBbI
+" target="_blank"><img src="http://img.youtube.com/vi/7_AiV12XBbI/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 ##The basics
@@ -36,7 +42,7 @@ fun to simulate.
 
 ##Performance
 
- Chrome runs like butter @ 60FPS.  FF and Safari do abou 40FPS.
+ Chrome runs like butter @ 60FPS. FF and Safari do about 40FPS.
 
  Feel free to dig in, and tweak things :)
  -Lenny
