@@ -1,0 +1,20 @@
+{
+  "name": "screensaver",
+  "version": "0.0.1",
+  "authors": [
+    "@LennyMarkus"
+  ],
+  "description": "Playing around with Javascript to emulate some old windows screensavers",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15"
+  }
+}
