@@ -7,8 +7,9 @@ I recently saw [this video](https://www.youtube.com/watch?v=7_AiV12XBbI) on YouT
 fun to simulate.
 
 **[Live Demo Here](http://lmarkus.github.io/pendulum/)**
+<a href="http://lmarkus.github.io/pendulum/" target="_blank"><img src="https://github.com/lmarkus/pendulum/blob/gh-pages/images/waves.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
+**[Original Video](https://www.youtube.com/watch?v=7_AiV12XBbI)**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7_AiV12XBbI
 " target="_blank"><img src="http://img.youtube.com/vi/7_AiV12XBbI/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
